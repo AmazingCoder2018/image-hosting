@@ -1,3 +1,9 @@
 {"key":"value"}
-
+从 https://github.com/AmazingCoder2018/image-hosting/blob/master/demo.json
+演变成
 https://raw.githubusercontent.com/AmazingCoder2018/image-hosting/master/demo.json
+需要分3步
+
+1. 加 "raw." 即: https://raw.github.com/AmazingCoder2018/image-hosting/blob/master/demo.json
+2. 改 "github" 为 "githubusercontent" 即: https://raw.githubusercontent.com/AmazingCoder2018/image-hosting/blob/master/demo.json
+3. 去掉"blob/" 即: https://raw.githubusercontent.com/AmazingCoder2018/image-hosting/master/demo.json
